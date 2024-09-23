@@ -18,7 +18,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/782584d2-8801-4cb2-88b3-ad5ad0580d75.png" alt="Aristocrat Wheel" style="width:100%;">
   <h3>Aristocrat Wheel</h3>
-  <p>Other pirates should know that you’re the cream of the crop. Stand proud at this jeweled wheel.</p>
+  <p>Other pirates should know that you're the cream of the crop. Stand proud at this jeweled wheel.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/daabb837-2cbf-4986-82f0-fb8f2f3a4076.png" alt="Dark Adventurers Wheel" style="width:100%;">
@@ -63,7 +63,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/eeb8b49e-7ad1-44e2-8711-3ef2147abbc7.png" alt="Goldspinner Wheel" style="width:100%;">
   <h3>Goldspinner Wheel</h3>
-  <p>Spin a golden yarn as you sail, but don’t prick your finger and fall asleep at this wheel!</p>
+  <p>Spin a golden yarn as you sail, but don't prick your finger and fall asleep at this wheel!</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/84dc7693-eab8-4828-a0a4-a205292949d4.png" alt="Gorgon Wheel" style="width:100%;">
@@ -73,7 +73,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/6143615c-fcd8-4e04-bc0c-e86744420829.png" alt="Kraken Wheel" style="width:100%;">
   <h3>Kraken Wheel</h3>
-  <p>This wheel always seems to steer you towards clashes with epic sea beasties…</p>
+  <p>This wheel always seems to steer you towards clashes with epic sea beasties'</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/44b08d67-1115-404b-8947-49cd89eadcc4.png" alt="Magpie's Glory Wheel" style="width:100%;">
@@ -103,7 +103,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/89d0c500-a505-42b6-b36b-2e4d4a8c7d5e.png" alt="Mutinous Fist Wheel" style="width:100%;">
   <h3>Mutinous Fist Wheel</h3>
-  <p>The Mutinous Fist, being equal anarchists, each take turns at the wheel. In theory, anyway…</p>
+  <p>The Mutinous Fist, being equal anarchists, each take turns at the wheel. In theory, anyway'</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/97397d62-582f-4d59-aaa7-de0958d4a794.png" alt="Ocean Crawler Wheel" style="width:100%;">
@@ -173,7 +173,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/62d96101-e9bd-4777-abe8-af7ed7edbc4b.png" alt="Twilight Hunter Wheel" style="width:100%;">
   <h3>Twilight Hunter Wheel</h3>
-  <p>This wheel, as black as your soul, lets your ship turn like a circling bird of prey…</p>
+  <p>This wheel, as black as your soul, lets your ship turn like a circling bird of prey'</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/f06fea23-4d72-4a77-9f12-c627ff327b9c.png" alt="Veil of the Ancients Wheel" style="width:100%;">
@@ -299,7 +299,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/c1343091-b8cc-4e1e-b9af-3ad5f2047f76.png" alt="Gorgon Cannon" style="width:100%;">
   <h3>Gorgon Cannon</h3>
-  <p>You never know what monsters you’ll encounter on your travels. These cannons will help deter any that get too close.</p>
+  <p>You never know what monsters you'll encounter on your travels. These cannons will help deter any that get too close.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/924398f9-a924-4c17-8f56-805cec41fa3f.png" alt="Grand Admiral Cannons" style="width:100%;">
@@ -404,7 +404,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/932c9184-d56d-44e0-ab18-3b7e4d32e03e.png" alt="Silver Blade Cannons" style="width:100%;">
   <h3>Silver Blade Cannons</h3>
-  <p>Sometimes, leading the way means clearing a path…</p>
+  <p>Sometimes, leading the way means clearing a path'</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/42c03ab1-9bde-48de-b494-cd80d0bfd535.png" alt="Stormfish Chaser Cannon" style="width:100%;">
@@ -475,7 +475,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/50aca93e-aece-4c24-bc7c-456bb5d324ec.png" alt="Blue Flag" style="width:100%;">
   <h3>Blue Flag</h3>
-  <p>It’s a flag. It’s blue. It’s a blue flag.</p>
+  <p>It's a flag. It's blue. It's a blue flag.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/e8363589-0efa-4afb-b71f-816ed6e2869d.png" alt="Castaway Bilge Rat Flag" style="width:100%;">
@@ -620,7 +620,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/59e350a2-b447-4f64-b436-d9250e638136.png" alt="Legendary Flag" style="width:100%;">
   <h3>Legendary Flag</h3>
-  <p>You’re a Pirate Legend and you know it. Now they will, too.</p>
+  <p>You're a Pirate Legend and you know it. Now they will, too.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/a649b2a0-7d76-47fa-8fdd-139c9487e9ad.png" alt="Magpie's Glory Flag" style="width:100%;">
@@ -680,7 +680,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/8f1428de-04f0-4fbf-bb9a-d1d81c3123c0.png" alt="Precious Present Flag" style="width:100%;">
   <h3>Precious Present Flag</h3>
-  <p>The real present might be the friends we made along the way, but the flag’s a nice touch too.</p>
+  <p>The real present might be the friends we made along the way, but the flag's a nice touch too.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/690cb32a-dffe-4a96-b66e-af4c61fc65bd.png" alt="Rainbow Flag" style="width:100%;">
@@ -770,7 +770,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/42685816-8f17-43ef-9532-35b700c4cd1f.png" alt="Shark Hunter Flag" style="width:100%;">
   <h3>Shark Hunter Flag</h3>
-  <p>Let others know that you’re on the trail of toothy terror.</p>
+  <p>Let others know that you're on the trail of toothy terror.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/788bca9f-966c-4847-810f-12dd46d5fbe8.png" alt="Silver Blade Flag" style="width:100%;">
@@ -805,7 +805,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/f8a0b9f1-3c02-4e1f-887a-9c944930f838.png" alt="The Killer Whale Flag" style="width:100%;">
   <h3>The Killer Whale Flag</h3>
-  <p>A flag adorned with waves, creating a peaceful nautical image, until the storm hits.</p>
+  <p>A'flag adorned with waves, creating a peaceful nautical image, until the storm hits.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/f8b89269-2389-484f-931d-26a3e4169427.png" alt="Tribute Peak Flag" style="width:100%;">
@@ -835,7 +835,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/f0740f7e-0235-4414-9853-76e3ca886c8e.png" alt="White Flag" style="width:100%;">
   <h3>White Flag</h3>
-  <p>Nice and simple, plus remarkably clean for a pirate’s property.</p>
+  <p>Nice and simple, plus remarkably clean for a pirate's property.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/78e8fe08-2c8f-456a-a392-0005dc8b0ebd.png" alt="Wild Rose Flag" style="width:100%;">
@@ -926,7 +926,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/04e96b13-4bda-44a6-af4b-75ea99ff73f6.png" alt="Gorgon Capstan" style="width:100%;">
   <h3>Gorgon Capstan</h3>
-  <p>Coil and uncoil your anchor like a particularly elegant – if heavy – serpent.</p>
+  <p>Coil and uncoil your anchor like a particularly elegant ' if heavy ' serpent.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/4e3f3fa8-8388-4490-87d1-41f31415f2cb.png" alt="Imperial Sovereign Capstan" style="width:100%;">
@@ -976,7 +976,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/57571df3-f9f7-4803-b67f-9ffb87ea646e.png" alt="Order of Souls Capstan" style="width:100%;">
   <h3>Order of Souls Capstan</h3>
-  <p>This capstan creaks like the bones of the dead returning to life…</p>
+  <p>This capstan creaks like the bones of the dead returning to life'</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/b5651567-0c76-4870-b2df-53d5b82a141b.png" alt="Party Boat Capstan" style="width:100%;">
@@ -1087,7 +1087,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/cb0cb825-f48c-42dc-a79a-db32a4504236.png" alt="Dark Adventurers Figurehead" style="width:100%;">
   <h3>Dark Adventurers Figurehead</h3>
-  <p>Part of a ship set designed by The Reaper's Bones to lure Pirate Legends to their cause…</p>
+  <p>Part of a ship set designed by The Reaper's Bones to lure Pirate Legends to their cause'</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/0169d761-dab9-4a92-9051-9875844ef97b.png" alt="Eastern Winds Ruby Figurehead" style="width:100%;">
@@ -1142,7 +1142,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/bc5ba587-4951-4d9e-8819-da268a731d9b.png" alt="Gorgon Collector's Figurehead" style="width:100%;">
   <h3>Gorgon Collector's Figurehead</h3>
-  <p>While it sadly can’t turn your enemies to stone, this figurehead is still intimidating enough to freeze them with terror.</p>
+  <p>While it sadly can't turn your enemies to stone, this figurehead is still intimidating enough to freeze them with terror.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/1221d4c4-bc84-46c6-883f-2efc58448dfd.png" alt="Gorgon Figurehead" style="width:100%;">
@@ -1302,7 +1302,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/49eca925-8c5b-4bd6-907b-d24432771c38.png" alt="The Killer Whale Figurehead" style="width:100%;">
   <h3>The Killer Whale Figurehead</h3>
-  <p>Based on the swordfish that adorned The Killer Whale, before Merrick... misplaced the ship.</p>
+  <p>Based on'the'swordfish that adorned The Killer Whale, before Merrick... misplaced the ship.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/b5b33c8f-606b-44f7-8426-3ecf13a904ba.png" alt="Tribute Peak Figurehead" style="width:100%;">
@@ -1558,7 +1558,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/823402b5-bd16-450c-9254-b4309f2d10c0.png" alt="The Killer Whale Hull" style="width:100%;">
   <h3>The Killer Whale Hull</h3>
-  <p>This paint scheme made The Killer Whale crew feel like they had a bigger boat.</p>
+  <p>This'paint scheme made The Killer Whale crew feel like they had a bigger boat.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/d3c84f08-f61b-4672-a5fe-e738c01743fa.png" alt="Tribute Peak Hull" style="width:100%;">
@@ -1724,7 +1724,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/83c995bf-5111-4f40-b732-3b5532056355.png" alt="Gold Hoarders Inaugural Captain Sails" style="width:100%;">
   <h3>Gold Hoarders Inaugural Captain Sails</h3>
-  <p>You gathered more gold than any other… you've earned supreme bragging rights, Hoarder!</p>
+  <p>You gathered more gold than any other' you've earned supreme bragging rights, Hoarder!</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/69b63a07-395e-4166-8da9-749367cba879.png" alt="Gold Hoarders Inaugural Marauder Sails" style="width:100%;">
@@ -1739,17 +1739,17 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/74f34d35-3048-4a16-ab72-3edc94ff9db7.png" alt="Gorgon Collector's Sails" style="width:100%;">
   <h3>Gorgon Collector's Sails</h3>
-  <p>It’s said that the creature’s head adorning these sails once turned an entire monster to stone. Well, it could happen, right?</p>
+  <p>It's said that the creature's head adorning these sails once turned an entire monster to stone. Well, it could happen, right?</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/7a90737f-3fd7-4a37-8943-aea824adefcf.png" alt="Gorgon Sails" style="width:100%;">
   <h3>Gorgon Sails</h3>
-  <p>Pirates don’t usually have to worry about snakes out at sea. Now they may want to reconsider.</p>
+  <p>Pirates don't usually have to worry about snakes out at sea. Now they may want to reconsider.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/a9b67a6c-86b7-41c6-925f-c7612862de27.png" alt="Grass Green Sailor Sails" style="width:100%;">
   <h3>Grass Green Sailor Sails</h3>
-  <p>Bright green, perfect camouflage if you run aground in someone’s garden.</p>
+  <p>Bright green, perfect camouflage if you run aground in someone's garden.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/4ae8f9e8-9269-4478-954d-539d1667f25d.png" alt="Guardian Ghost Sails" style="width:100%;">
@@ -1769,7 +1769,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/0bde157a-f947-4226-a117-1cdabe9dfc19.png" alt="Kraken Sails" style="width:100%;">
   <h3>Kraken Sails</h3>
-  <p>A Kraken on your sails, because your ship is the real sea monster…</p>
+  <p>A Kraken on your sails, because your ship is the real sea monster'</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/e2cbe43e-2bc5-40b7-bc0e-9866ef6db728.png" alt="Legendary Sails" style="width:100%;">
@@ -1824,7 +1824,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/e6c4b043-3165-4890-a53c-ea6f126e4968.png" alt="Morningstar Sails" style="width:100%;">
   <h3>Morningstar Sails</h3>
-  <p>The Morningstar will rise once again with these bold sails, leading any crew to fortune and adventure.</p>
+  <p>The Morningstar will rise'once again'with these bold sails, leading any crew to fortune and adventure.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/ec3dd208-d605-41ed-b482-5883f249d009.png" alt="Mutinous Fist Sails" style="width:100%;">
@@ -1929,7 +1929,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/c58587d3-f9cf-40e1-8a4c-9d5a7ed11bd6.png" alt="Royal Blue Sailor Sails" style="width:100%;">
   <h3>Royal Blue Sailor Sails</h3>
-  <p>Now that’s a handsome set of sails! You look like pirate royalty, now.</p>
+  <p>Now that's a handsome set of sails! You look like pirate royalty, now.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/47d75097-c3f5-44fc-a8de-9153666f99f5.png" alt="Sails of Cursed Bone" style="width:100%;">
@@ -1959,7 +1959,7 @@
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/a9d93010-4f05-4288-8a57-f34c6be3d3a0.png" alt="Shark Hunter Sails" style="width:100%;">
   <h3>Shark Hunter Sails</h3>
-  <p>Let everyone know that you’re here to take a bite out of the competition.</p>
+  <p>Let everyone know that you're here to take a bite out of the competition.</p>
 </div>
 <div class="grid-item wide">
   <img src="https://sotprofilecdn.azureedge.net/2-133-9415-0/Entitlement/Inventory/dd73b870-8653-4304-b863-7e7b74ab8c30.png" alt="Silver Blade Sails" style="width:100%;">

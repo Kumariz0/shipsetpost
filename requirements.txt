@@ -1,0 +1,3 @@
+browser_cookie3
+APIrate @ git+https://github.com/Kumariz0/APIrate.git
+requests
